@@ -1,10 +1,10 @@
 Package: DiannStatsComp
 Imports:
-  tidyr
-  dplyr
-  purrr
-  stringr
-  tibble
+  tidyr,
+  dplyr,
+  purrr,
+  stringr,
+  tibble,
   magrittr
 Type: Package
 Title: DIA-NN Coverage Extractor
