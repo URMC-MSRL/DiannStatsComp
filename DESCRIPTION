@@ -1,0 +1,17 @@
+Package: DiannStatsComp
+Imports:
+  tidyr
+  dplyr
+  purrr
+  stringr
+  tibble
+  magrittr
+Type: Package
+Title: DIA-NN Coverage Extractor
+Version: 0.0.1
+Author: Kyle Swovick
+Maintainer: The package maintainer <kyle_swovick@urmc.rochester.edut>
+Description: This package is quickly pull out ID numbers from DIA-NN searches. Specifically it pulls data from the "log.txt" and "report.stats.tsv" files.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
