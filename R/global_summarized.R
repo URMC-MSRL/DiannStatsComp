@@ -96,7 +96,7 @@ global_summarized <- function(log_data,
     mods_enabled = mods_enabled
     )
   
-  global_log_data <- get_global_loga(
+  global_log_data <- get_global_log(
     log_data = log_data,
     experiment_metadata = metadata,
     researcher_name = researcher_name,
